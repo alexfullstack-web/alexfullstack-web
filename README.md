@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200%C2%A7ion=header&text=Alex%20Sousa&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Front-end%20&%20Backend&descAlignY=58&descAlign=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alex%20Sousa&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Front-end%20&%20Backend&descAlignY=58&descAlign=50&animation=fadeIn"/>
 
 </div>
 
@@ -18,13 +18,15 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=alexfullstack-web&style=for-the-badge&color=7c3aed&label=VISITANTES"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-DISPONÍVEL%20PARA%20PROJETOS-00e676?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL%20PARA%20PROJETOS-00e676?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
 </div>
 
----
+<div align="center">
+  <sub>⭐ Se este perfil te ajudou ou inspirou, considere deixar uma estrela nos meus repositórios!</sub>
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+---
 
 ## 🌐 Conecte-se Comigo
 
@@ -34,33 +36,31 @@
 <img src="https://img.shields.io/badge/GitHub-alexfullstack--web-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/sousaalex_234/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@sousaalex__234-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/alex-sousa-1a489a38a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Alex%20Sousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
+<a href="https://www.instagram.com/sousaalex_234/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@sousaalex__234-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ---
 
 ## 💻 Sobre Mim
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 
 ```javascript
 const alex = {
   nome: "Alex Sousa",
-  localidade: "Brasil 🇧🇷",
+  localizacao: "Brasil 🇧🇷",
   cargo: "Desenvolvedor Full Stack",
 
   frontend: [
-    "HTML",
-    "CSS",
+    "HTML5",
+    "CSS3",
     "JavaScript",
     "React"
   ],
@@ -73,55 +73,35 @@ const alex = {
     "PostgreSQL"
   ],
 
-  foco: [
+  areasDeFoco: [
     "Sistemas Web",
-    "APIs",
-    "SaaS",
+    "APIs REST",
+    "Produtos SaaS",
     "Automações",
     "Aplicações Modernas"
   ],
 
-  objetivo: "Criar soluções escaláveis e profissionais"
-}
+  objetivo: "Criar soluções escaláveis, seguras e profissionais"
+};
 ```
 
 <br clear="right"/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🎨 Frontend
-
-<div align="left">
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
 
-</div>
-
-<br/>
-
-### ⚙️ Backend
-
-<div align="left">
+**Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,sqlite&theme=dark"/>
 
-</div>
-
-<br/>
-
-### 🧰 Ferramentas & DevOps
-
-<div align="left">
+**Ferramentas & DevOps**
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&theme=dark"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ---
 
@@ -138,7 +118,6 @@ const alex = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alexfullstack-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff"/>
-
 <img width="49%" src="https://streak-stats.demolab.com?user=alexfullstack-web&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </div>
@@ -147,11 +126,11 @@ const alex = {
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfullstack-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfullstack-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+> 💡 **Nota:** essas imagens são geradas dinamicamente com base no seu usuário `alexfullstack-web`. Se algum badge não carregar, normalmente é porque o repositório do gerador está temporariamente fora do ar — não é um erro na sua configuração.
 
 ---
 
@@ -163,38 +142,14 @@ const alex = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ---
 
 ## 🚀 O Que Eu Construo
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60"/>
-<br/><b>Aplicações Modernas</b>
-</td>
-<td align="center" width="200">
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60"/>
-<br/><b>Sistemas SaaS</b>
-</td>
-<td align="center" width="200">
-<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="60"/>
-<br/><b>APIs Seguras</b>
-</td>
-<td align="center" width="200">
-<img src="https://media.giphy.com/media/3ohs4BSacFKI1vYSdi/giphy.gif" width="60"/>
-<br/><b>Soluções Escaláveis</b>
-</td>
-<td align="center" width="200">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60"/>
-<br/><b>Sistemas Web</b>
-</td>
-</tr>
-</table>
+| 🖥️ Aplicações Modernas | 💼 Sistemas SaaS | 🔐 APIs Seguras | 📈 Soluções Escaláveis | 🌐 Sistemas Web |
+|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -202,21 +157,7 @@ const alex = {
 
 ## 📖 Filosofia de Desenvolvimento
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 > *"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista de heurísticas. Profissionalismo e artesanato vêm de valores que guiam disciplina."*
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ---
 
@@ -225,39 +166,25 @@ const alex = {
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alexfullstack-web/alexfullstack-web/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/alexfullstack-web/alexfullstack-web/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution snake"
-    src="https://raw.githubusercontent.com/alexfullstack-web/alexfullstack-web/output/github-contribution-grid-snake-dark.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexfullstack-web/alexfullstack-web/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexfullstack-web/alexfullstack-web/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/alexfullstack-web/alexfullstack-web/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
+
+> ⚙️ Este "snake" só aparece se você tiver o workflow **`snake.yml`** configurado no repositório especial `alexfullstack-web/alexfullstack-web`, gerando o branch `output`. Caso ainda não tenha, posso te passar o passo a passo para ativar.
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+### ⭐ Obrigado pela visita!
 
-### ⭐ Obrigado pela Visita!
-
-**Se curtir meus projetos, deixe uma ⭐ nos repositórios.**
+Se curtir meus projetos, deixe uma ⭐ nos repositórios.
 
 🤝 Sempre aberto para **colaborações**, **parcerias** e **novas ideias**.
-
-💼 Disponível para **freela**, **projetos** e **oportunidades profissionais**.
-
-</div>
-
-<div align="center">
+💼 Disponível para **freelas**, **projetos** e **oportunidades profissionais**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=fadeIn"/>
 
